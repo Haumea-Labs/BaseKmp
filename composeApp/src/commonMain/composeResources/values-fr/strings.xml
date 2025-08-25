@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnimAIte</string>
+    
+    <!-- Main Screen -->
+    <string name="choose_photo">Choisir Photo</string>
+    <string name="choose_style">Choisir Style</string>
+    <string name="generate">Générer</string>
+    <string name="watch_ad">Regarder Pub</string>
+    <string name="generating">Génération...</string>
+    <string name="error_loading_ad">Échec du chargement de la publicité</string>
+    
+    <!-- Result Screen -->
+    <string name="save_to_gallery">Enregistrer</string>
+    <string name="share">Partager</string>
+    <string name="go_back">Retour</string>
+    <string name="save">Sauvegarder</string>
+    <string name="error_saving_image">Erreur lors de la sauvegarde de l'image</string>
+    <string name="image_saved">Image sauvegardée avec succès</string>
+    <string name="error_sharing_image">Erreur lors du partage de l'image</string>
+    <string name="image_copied">Image copiée avec succès</string>
+    <string name="style">Style :</string>
+    <!-- New strings for loading overlay -->
+    <string name="applying_ai">Application de la magie IA...</string>
+    <string name="enhancing_details">Amélioration des détails...</string>
+    <string name="almost_there">Presque terminé...</string>
+    <!-- MotD Promo -->
+    <string name="motd_promo_title">Styles Pro GRATUITS !</string>
+    <string name="motd_promo_subtitle">Exactement ! Pour une durée limitée, créez des photos époustouflantes avec TOUS nos styles premium. Profitez-en !</string>
+    <!-- Onboarding -->
+    <string name="onboarding_slide1_title">Transformez vos photos avec\nla Magie IA !</string>
+    <string name="onboarding_slide1_subtitle">Transformez sans effort des photos ordinaires en chefs-d'œuvre époustouflants.</string>
+    <string name="onboarding_slide1_title_bold">Magie IA !</string>
+    <string name="onboarding_slide1_subtitle_bold">chefs-d'œuvre époustouflants</string>
+    <string name="onboarding_slide2_title">Étapes simples pour des résultats incroyables</string>
+    <string name="onboarding_slide2_subtitle">1. Choisissez votre photo.\n2. Choisissez un filtre artistique.\n3. Laissez l'IA opérer sa magie !</string>
+    <string name="onboarding_slide2_title_bold">résultats incroyables</string>
+    <string name="onboarding_slide2_subtitle_bold">IA opérer sa magie !</string>
+    <string name="onboarding_slide3_title">Créez et partagez votre chef-d'œuvre !</string>
+    <string name="onboarding_slide3_subtitle">Votre première création alimentée par l'IA n'est qu'à quelques instants. Préparez-vous à partager !</string>
+    <string name="onboarding_slide3_title_bold">chef-d'œuvre !</string>
+    <string name="onboarding_slide3_subtitle_bold">création alimentée par l'IA</string>
+</resources>

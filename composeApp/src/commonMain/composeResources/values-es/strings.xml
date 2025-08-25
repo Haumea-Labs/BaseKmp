@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnimAIte</string>
+    
+    <!-- Main Screen -->
+    <string name="choose_photo">Elegir Foto</string>
+    <string name="choose_style">Elegir Estilo</string>
+    <string name="generate">Generar</string>
+    <string name="watch_ad">Ver Anuncio</string>
+    <string name="generating">Generando...</string>
+    <string name="error_loading_ad">Error al cargar el anuncio</string>
+    
+    <!-- Result Screen -->
+    <string name="save_to_gallery">Guardar</string>
+    <string name="share">Compartir</string>
+    <string name="go_back">Volver</string>
+    
+    <!-- New strings for loading overlay -->
+    <string name="applying_ai">Aplicando magia IA...</string>
+    <string name="enhancing_details">Mejorando detalles...</string>
+    <string name="almost_there">Casi listo...</string>
+    
+    <!-- MotD Promo -->
+    <string name="motd_promo_title">¡Estilos Pro GRATIS!</string>
+    <string name="motd_promo_subtitle">¡Así es! Por tiempo limitado, crea fotos impresionantes con TODOS nuestros estilos premium. ¡Disfruta!</string>
+    
+    <!-- Onboarding -->
+    <string name="onboarding_slide1_title">¡Transforma tus fotos con\nMagia IA!</string>
+    <string name="onboarding_slide1_subtitle">Convierte fotos cotidianas en impresionantes obras maestras sin esfuerzo.</string>
+    <string name="onboarding_slide2_title">Pasos simples para resultados asombrosos</string>
+    <string name="onboarding_slide2_subtitle">1. Elige tu foto.\n2. Elige un filtro artístico.\n3. ¡Deja que la IA haga su magia!</string>
+    <string name="onboarding_slide3_title">¡Crea y comparte tu obra maestra!</string>
+    <string name="onboarding_slide3_subtitle">Tu primera creación impulsada por IA está a solo momentos de distancia. ¡Prepárate para compartir!</string>
+    <string name="onboarding_slide3_title_bold">obra maestra!</string>
+    <string name="onboarding_slide3_subtitle_bold">creación impulsada por IA</string>
+    <!-- Onboarding Buttons -->
+    <string name="next">Siguiente</string>
+    <string name="get_started">Comenzar</string>
+</resources>

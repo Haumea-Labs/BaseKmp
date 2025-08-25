@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnimAIte</string>
+    
+    <!-- Main Screen -->
+    <string name="choose_photo">Choose Photo</string>
+    <string name="choose_style">Choose Style</string>
+    <string name="generate">Generate</string>
+    <string name="watch_ad">Watch Ad</string>
+    <string name="generating">Generating...</string>
+    <string name="error_loading_ad">Failed to load ad</string>
+    
+    <!-- Result Screen -->
+    <string name="save_to_gallery">Save</string>
+    <string name="share">Share</string>
+    <string name="go_back">Go Back</string>
+    
+    <!-- New strings for loading overlay -->
+    <string name="applying_ai">Applying AI magic...</string>
+    <string name="enhancing_details">Enhancing details...</string>
+    <string name="almost_there">Almost there...</string>
+    
+    <!-- MotD Promo -->
+    <string name="motd_promo_title">Pro styles FREE!</string>
+    <string name="motd_promo_subtitle">That's right! For a limited time, create stunning photos with ALL our premium styles. Enjoy!</string>
+    
+    <!-- Onboarding -->
+    <string name="onboarding_slide1_title">Transform Your Photos with\nAI Magic!</string>
+    <string name="onboarding_slide1_subtitle">Turn everyday pictures into stunning masterpieces effortlessly.</string>
+    <string name="onboarding_slide1_title_bold">AI Magic!</string>
+    <string name="onboarding_slide1_subtitle_bold">stunning masterpieces</string>
+
+    <string name="onboarding_slide2_title">Simple Steps to Stunning Results</string>
+    <string name="onboarding_slide2_subtitle">1. Choose your photo.\n2. Pick an artistic filter.\n3. Let the AI work its magic!</string>
+    <string name="onboarding_slide2_title_bold">Stunning Results</string>
+    <string name="onboarding_slide2_subtitle_bold">AI work its magic!</string>
+
+    <string name="onboarding_slide3_title">Create &amp; Share Your Masterpiece!</string>
+    <string name="onboarding_slide3_subtitle">Your first AI-powered creation is just moments away. Get ready to share!</string>
+    <string name="onboarding_slide3_title_bold">Masterpiece!</string>
+    <string name="onboarding_slide3_subtitle_bold">AI-powered creation</string>
+    <!-- Onboarding Buttons -->
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+</resources>

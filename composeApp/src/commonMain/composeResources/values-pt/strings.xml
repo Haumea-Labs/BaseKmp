@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnimAIte</string>
+    
+    <!-- Main Screen -->
+    <string name="choose_photo">Escolher Foto</string>
+    <string name="choose_style">Escolher Estilo</string>
+    <string name="generate">Gerar</string>
+    <string name="watch_ad">Assistir Anúncio</string>
+    <string name="generating">Gerando...</string>
+    <string name="error_loading_ad">Falha ao carregar anúncio</string>
+    
+    <!-- Result Screen -->
+    <string name="save">Salvar</string>
+    <string name="share">Compartilhar</string>
+    <string name="go_back">Voltar</string>
+    
+    <!-- New strings for loading overlay -->
+    <string name="applying_ai">Aplicando magia de IA...</string>
+    <string name="enhancing_details">Melhorando detalhes...</string>
+    <string name="almost_there">Quase lá...</string>
+    
+    <!-- MotD Promo -->
+    <string name="motd_promo_title">Estilos Pro GRÁTIS!</string>
+    <string name="motd_promo_subtitle">É isso mesmo! Por tempo limitado, crie fotos incríveis com TODOS os nossos estilos premium. Aproveite!</string>
+    
+    <!-- Onboarding -->
+    <string name="onboarding_slide1_title">Transforme suas fotos com\na Magia da IA!</string>
+    <string name="onboarding_slide1_subtitle">Transforme fotos do dia a dia em obras-primas deslumbrantes sem esforço.</string>
+    <string name="onboarding_slide1_title_bold">Magia da IA!</string>
+    <string name="onboarding_slide1_subtitle_bold">obras-primas deslumbrantes</string>
+    <string name="onboarding_slide2_title">Passos simples para resultados incríveis</string>
+    <string name="onboarding_slide2_subtitle">1. Escolha sua foto.\n2. Escolha um filtro artístico.\n3. Deixe a IA fazer sua mágica!</string>
+    <string name="onboarding_slide2_title_bold">resultados incríveis</string>
+    <string name="onboarding_slide2_subtitle_bold">IA fazer sua mágica!</string>
+    <string name="onboarding_slide3_title">Crie e compartilhe sua obra-prima!</string>
+    <string name="onboarding_slide3_subtitle">Sua primeira criação com IA está a poucos moments de distância. Prepare-se para compartilhar!</string>
+    <string name="onboarding_slide3_title_bold">obra-prima!</string>
+    <string name="onboarding_slide3_subtitle_bold">criação com IA</string>
+    <!-- Onboarding Buttons -->
+    <string name="next">Próximo</string>
+    <string name="get_started">Começar</string>
+</resources>

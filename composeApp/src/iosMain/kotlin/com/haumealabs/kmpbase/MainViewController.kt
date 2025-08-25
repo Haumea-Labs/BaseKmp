@@ -1,4 +1,4 @@
-package com.haumealabs.toyme
+package com.haumealabs.kmpbase
 
 import androidx.compose.ui.window.ComposeUIViewController
 

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnimAIte</string>
+    
+    <!-- Main Screen -->
+    <string name="choose_photo">Scegli Foto</string>
+    <string name="choose_style">Scegli Stile</string>
+    <string name="generate">Genera</string>
+    <string name="watch_ad">Guarda Annuncio</string>
+    <string name="generating">Generazione...</string>
+    <string name="error_loading_ad">Impossibile caricare l\'annuncio</string>
+    
+    <!-- Result Screen -->
+    <string name="save">Salva</string>
+    <string name="share">Condividi</string>
+    <string name="go_back">Indietro</string>
+    
+    <!-- New strings for loading overlay -->
+    <string name="applying_ai">Applicando magia IA...</string>
+    <string name="enhancing_details">Migliorando i dettagli...</string>
+    <string name="almost_there">Quasi finito...</string>
+    
+    <!-- New strings for image handling -->
+    <string name="error_saving_image">Errore nel salvataggio dell'immagine</string>
+    <string name="image_saved">Immagine salvata con successo</string>
+    <string name="error_sharing_image">Errore nella condivisione dell'immagine</string>
+    <string name="image_copied">Immagine copiata con successo</string>
+    <string name="style">Stile:</string>
+    
+    <!-- MotD Promo -->
+    <string name="motd_promo_title">Stili Pro GRATIS!</string>
+    <string name="motd_promo_subtitle">Esatto! Per un periodo limitato, crea foto mozzafiato con TUTTI i nostri stili premium. Divertiti!</string>
+    
+    <!-- Onboarding -->
+    <string name="onboarding_slide1_title">Trasforma le tue foto con\nla Magia dell'IA!</string>
+    <string name="onboarding_slide1_subtitle">Trasforma le foto di tutti i giorni in capolavori straordinari senza sforzo.</string>
+    <string name="onboarding_slide1_title_bold">Magia dell'IA!</string>
+    <string name="onboarding_slide1_subtitle_bold">capolavori straordinari</string>
+    <string name="onboarding_slide2_title">Semplici passaggi per risultati straordinari</string>
+    <string name="onboarding_slide2_subtitle">1. Scegli la tua foto.\n2. Scegli un filtro artistico.\n3. Lascia che l'IA faccia la sua magia!</string>
+    <string name="onboarding_slide2_title_bold">risultati straordinari</string>
+    <string name="onboarding_slide2_subtitle_bold">IA faccia la sua magia!</string>
+    <string name="onboarding_slide3_title">Crea e condividi il tuo capolavoro!</string>
+    <string name="onboarding_slide3_subtitle">La tua prima creazione basata sull'IA è a pochi istanti di distanza. Preparati a condividere!</string>
+    <string name="onboarding_slide3_title_bold">capolavoro!</string>
+    <string name="onboarding_slide3_subtitle_bold">creazione basata sull'IA</string>
+</resources>

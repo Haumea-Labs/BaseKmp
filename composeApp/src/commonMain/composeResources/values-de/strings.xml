@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnimAIte</string>
+    
+    <!-- Main Screen -->
+    <string name="choose_photo">Foto wählen</string>
+    <string name="choose_style">Stil wählen</string>
+    <string name="generate">Generieren</string>
+    <string name="watch_ad">Werbung ansehen</string>
+    <string name="generating">Generiere...</string>
+    <string name="error_loading_ad">Werbung konnte nicht geladen werden</string>
+    
+    <!-- Result Screen -->
+    <string name="save_to_gallery">Speichern</string>
+    <string name="share">Teilen</string>
+    <string name="go_back">Zurück</string>
+    
+    <!-- New translations -->
+    <string name="error_saving_image">Fehler beim Speichern des Bildes</string>
+    <string name="image_saved">Bild erfolgreich gespeichert</string>
+    <string name="error_sharing_image">Fehler beim Teilen des Bildes</string>
+    <string name="image_copied">Bild erfolgreich kopiert</string>
+    <string name="style">Stil:</string>
+    
+    <!-- Loading overlay -->
+    <string name="applying_ai">Wende KI-Magie an...</string>
+    <string name="enhancing_details">Verbessere Details...</string>
+    <string name="almost_there">Fast geschafft...</string>
+    
+    <!-- MotD Promo -->
+    <string name="motd_promo_title">Pro-Stile GRATIS!</string>
+    <string name="motd_promo_subtitle">Genau! Für begrenzte Zeit können Sie atemberaubende Fotos mit ALLEN unseren Premium-Stilen erstellen. Viel Spaß!</string>
+    
+    <!-- Onboarding -->
+    <string name="onboarding_slide1_title">Verwandle deine Fotos mit\nKI-Magie!</string>
+    <string name="onboarding_slide1_subtitle">Verwandle alltägliche Bilder mühelos in atemberaubende Meisterwerke.</string>
+    <string name="onboarding_slide1_title_bold">KI-Magie!</string>
+    <string name="onboarding_slide1_subtitle_bold">atemberaubende Meisterwerke</string>
+    <string name="onboarding_slide2_title">Einfache Schritte zu tollen Ergebnissen</string>
+    <string name="onboarding_slide2_subtitle">1. Wähle dein Foto.\n2. Wähle einen künstlerischen Filter.\n3. Lass die KI ihre Magie wirken!</string>
+    <string name="onboarding_slide2_title_bold">tollen Ergebnissen</string>
+    <string name="onboarding_slide2_subtitle_bold">KI ihre Magie wirken!</string>
+    <string name="onboarding_slide3_title">Erstelle &amp; Teile dein Meisterwerk!</string>
+    <string name="onboarding_slide3_subtitle">Deine erste KI-gestützte Kreation ist nur wenige Augenblicke entfernt. Mach dich bereit zum Teilen!</string>
+    <string name="onboarding_slide3_title_bold">Meisterwerk!</string>
+    <string name="onboarding_slide3_subtitle_bold">KI-gestützte Kreation</string>
+    <!-- Onboarding Buttons -->
+    <string name="next">Weiter</string>
+    <string name="get_started">Loslegen</string>
+</resources>
